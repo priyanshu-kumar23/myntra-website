@@ -40,29 +40,30 @@ A Collaborative project built by a team of 3 executed in 7 days.
 
 ## Snap Shots 📷
 
-Home Page
+**Home Page**
 
 ![Logo](https://images2.imgbox.com/c0/b8/9A3OPB3n_o.jpg)
 
-Mega DropDown
+**Mega DropDown**
 
 ![Logo](https://images2.imgbox.com/fc/50/uwwSDxEF_o.jpg)
 
-Products Page
+**Products Page**
 
 ![Logo](https://images2.imgbox.com/b1/79/Ajcc0vIR_o.jpg)
 
-Products Details Page
+**Products Details Page**
 
 ![Logo](https://images2.imgbox.com/5c/5a/ALM6fjk4_o.jpg)
 
-WishList Page
+**WishList Page
 
 ![Logo](https://images2.imgbox.com/a3/f8/mt96qGyy_o.jpg)
 
-Cart Page
+**Cart Page
 
 ![Logo](https://images2.imgbox.com/5c/84/veOWEFoY_o.jpg)
+
 ## Contributors  😇
 
 
