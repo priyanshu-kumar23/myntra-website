@@ -36,7 +36,7 @@ No External Libraries has been used.
 - Landing page UI consisting of megadrown navbar, carasouel, animated image cards and authentications i.e.; Login & Register 
 - Paginations for each sub-sections
 - Implementation of local storage on authentications
-- Address, payment, checkout page done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect!!)
+- Address, payment, checkout, thank-you page done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect!!)
 
 ## Snap Shots 📷
 
