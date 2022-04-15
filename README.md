@@ -19,7 +19,8 @@ A Collaborative project built by a team of 3 executed in 7 days.
 - HTML5
 - CSS3
 - JAVASCRIPT
-No External Libraries has been used.
+
+**No External Libraries has been used.**
 
 
 
