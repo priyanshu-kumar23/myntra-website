@@ -56,11 +56,11 @@ A Collaborative project built by a team of 3 executed in 7 days.
 
 ![Logo](https://images2.imgbox.com/5c/5a/ALM6fjk4_o.jpg)
 
-**WishList Page
+**WishList Page**
 
 ![Logo](https://images2.imgbox.com/a3/f8/mt96qGyy_o.jpg)
 
-**Cart Page
+**Cart Page**
 
 ![Logo](https://images2.imgbox.com/5c/84/veOWEFoY_o.jpg)
 
