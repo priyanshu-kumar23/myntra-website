@@ -28,7 +28,7 @@ A Collaborative project built by a team of 3 executed in 7 days.
 
 - Authentication process undercover with Local Storage.
 - Pagination for each category with working mega dropdown.
-- Dynamic Products, Wishlist page using local json data.
+- Dynamic Products, Wishlist page using locally created json data.
 - All the product description, prices, discounts, are updated in real time.
 
 ## Responsibilities 💪
