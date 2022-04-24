@@ -36,7 +36,7 @@ A Collaborative project built by a team of 3 executed in 7 days.
 - Landing page UI consisting of megadrown navbar, carasouel, animated image cards and authentications i.e.; Login & Register 
 - Paginations for each sub-sections
 - Implementation of local storage on authentications
-- Address, payment, checkout done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect!!)
+- Address, payment, checkout done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect !!)
 
 ## Snap Shots 📷
 
